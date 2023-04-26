@@ -9,6 +9,9 @@ public class AtmProject {
         //version3
         System.out.println("Git ogrenmek cok kolay;)");
         //version4
+
+        System.out.println("cml branchi kodlarini yazdi.");
+        //versionC1
     }
 
 }
