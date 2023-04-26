@@ -15,6 +15,9 @@ public class AtmProject {
 
         System.out.println("bir kisim kodlar");
         //cml2
+
+        System.out.println();
+        //cml3
     }
 
 }
