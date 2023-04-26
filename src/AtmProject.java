@@ -12,6 +12,9 @@ public class AtmProject {
 
         System.out.println("cml branchi kodlarini yazdi.");
         //versionC1
+
+        System.out.println("bir kisim kodlar");
+        //cml2
     }
 
 }
