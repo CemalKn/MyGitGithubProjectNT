@@ -20,6 +20,7 @@ public class AtmProject {
         //cml3
         System.out.println();
         //localde degisiklik
+        //remoteda degisiklik
     }
 
 }
